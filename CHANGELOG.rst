@@ -10,6 +10,8 @@ instance, Boolean, Integer, String), but also allow them to hold either the
 typed value, or a String that can be converted to their typed value. For example,
 an Integer can contain 3 or '3'. This changed an update to the xblock library.
 
+Blades: Added tests for Video Alpha player.
+
 Blades: Video Alpha bug fix for speed changing to 1.0 in Firefox.
 
 Blades: Additional event tracking added to Video Alpha: fullscreen switch, show/hide
